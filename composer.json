@@ -1,0 +1,21 @@
+{
+    "name": "guanwei/game",
+    "autoload": {
+        "classmap": [
+            "validators",
+            "libraries",
+            "config"
+        ]
+    },
+    "authors": [
+        {
+            "name": "s22760081",
+            "email": "s22760081@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.0",
+        "wixel/gump": "^1.11",
+        "phpmailer/phpmailer": "^6.6"
+    }
+}
